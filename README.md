@@ -1,2 +1,2 @@
-# Macankumbang-Website
+# Macankumbang
 Responsive Template
